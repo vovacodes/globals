@@ -1,4 +1,4 @@
-/// <reference types="https://cdn.skypack.dev/-/react@v16.13.1-zjOHmKoBShdi3wIQWY2z/dist=es2020,mode=types/index.d.ts" />
+/// <reference types="https://deno.land/x/types/react/v16.13.1/react.d.ts" />
 const React = window.React;
 export const {
   Children,
