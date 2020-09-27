@@ -1,4 +1,4 @@
-/// <reference types="https://deno.land/x/types/react/v16.13.1/react.d.ts" />
+/// <reference types="https://denopkg.com/soremwar/deno_types/react/v16.13.1/react.d.ts" />
 const React = window.React;
 export const {
   Children,
