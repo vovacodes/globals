@@ -1,0 +1,32 @@
+/// <reference types="https://cdn.skypack.dev/-/react@v16.13.1-zjOHmKoBShdi3wIQWY2z/dist=es2020,mode=types/index.d.ts" />
+const React = window.React;
+export const {
+  Children,
+  Component,
+  Fragment,
+  Profiler,
+  PureComponent,
+  StrictMode,
+  Suspense,
+  cloneElement,
+  createContext,
+  createElement,
+  createFactory,
+  createRef,
+  forwardRef,
+  isValidElement,
+  lazy,
+  memo,
+  useCallback,
+  useContext,
+  useDebugValue,
+  useEffect,
+  useImperativeHandle,
+  useLayoutEffect,
+  useMemo,
+  useReducer,
+  useRef,
+  useState,
+  version,
+} = React;
+export default React;

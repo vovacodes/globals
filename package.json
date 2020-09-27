@@ -1,0 +1,12 @@
+{
+  "name": "@vguguiev/globals",
+  "version": "1.0.0",
+  "description": "Set of wrappers that re-export globally available libraries as ES modules",
+  "main": "index.js",
+  "repository": "https://github.com/vovacodes/globals.git",
+  "author": "Vladimir Guguiev <wizardzloy@gmail.com>",
+  "license": "MIT",
+  "exports": {
+    "./react.js": "./react.js"
+  }
+}
