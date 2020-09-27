@@ -7,6 +7,7 @@
   "author": "Vladimir Guguiev <wizardzloy@gmail.com>",
   "license": "MIT",
   "exports": {
-    "./react.js": "./react.js"
+    "./react.js": "./react.js",
+    "./react-dom.js": "./react-dom.js"
   }
 }
